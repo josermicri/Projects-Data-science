@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/joserios/Documents/Proyectos/London/mlruns/0/c0eb6aa0dfe440d2bdb9a29100d06c81/artifacts
+end_time: 1723544052726
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0eb6aa0dfe440d2bdb9a29100d06c81
+run_name: run_1
+run_uuid: c0eb6aa0dfe440d2bdb9a29100d06c81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723544049349
+status: 3
+tags: []
+user_id: joserios
